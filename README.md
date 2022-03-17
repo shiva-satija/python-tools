@@ -14,6 +14,7 @@ Generates DNA or RNA sequence of user specified length.
 Arguments
 
 sequence length= any integer number (example: 100)
+
 molecule type= type 1 for DNA or type 2 for RNA
 
 ```bash
