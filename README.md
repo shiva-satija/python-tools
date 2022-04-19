@@ -1,5 +1,6 @@
 # python-tools
 Command line Python Scripts for Bioinformatics Analysis
+[![DOI](https://zenodo.org/badge/469747269.svg)](https://zenodo.org/badge/latestdoi/469747269)
 # cpgoe.py
 GC Content and CpG Dinucleotide ratio calculator:
 Calculates GC content and CpG Dinucleotide Observed/Expected ratio of sequences in fasta or multifasta file.(required libraries: Biopython and pandas)
